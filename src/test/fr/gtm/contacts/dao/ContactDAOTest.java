@@ -1,5 +1,5 @@
 package fr.gtm.contacts.dao;
-
+// au revoir
 import static org.junit.Assert.*;
 
 import org.junit.Test;
